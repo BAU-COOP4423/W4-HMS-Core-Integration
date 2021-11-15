@@ -10,12 +10,12 @@
 
 ### With SSH
 ```
-git clone git@github.com:BAU-COOP4423/W3-MVVM-Retrofit.git
+git clone git@github.com:BAU-COOP4423/W4-HMS-Core-Integration.git
 ```
 
 ### With HTTPS
 ```
-git clone https://github.com/BAU-COOP4423/W3-MVVM-Retrofit.git
+git clone https://github.com/BAU-COOP4423/W4-HMS-Core-Integration.git
 ```
 
 ## Utilized resources
